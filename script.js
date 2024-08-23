@@ -82,7 +82,7 @@ function myfunc() {
 
 			// Outputting this message to index.html 
 			// page with id result. 
-			$('#result').html('You Crack it.????'); 
+			$('#result').html('You Crack it.😍😍'); 
 
 			// Opening popup modal 
 			$('#popup').modal('toggle'); 
@@ -90,7 +90,7 @@ function myfunc() {
 
 			// Outputting this message to index.html 
 			// page with id result. 
-			$('#result').html('Try once again.????'); 
+			$('#result').html('Try once again.🤞🤞'); 
 
 			// Opening popup modal 
 			$('#popup').modal('toggle') 
